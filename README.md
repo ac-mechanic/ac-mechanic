@@ -1,8 +1,12 @@
 ### Hi there 👋
 
 Credentials:
-  company mailAddress = "ac.mechanic.info@gmail.com" pass=qweasd123@
-  github user = "ac-mechanic" pass=qweasd123@qwe mail= mailAdderess
+{ 
+  company mailAddress = "ac.mechanic.info@gmail.com" 
+  pass=qweasd123@
+  github user = "ac-mechanic" 
+  pass=qweasd123@qwe 
+  }
   
 
 <!--
