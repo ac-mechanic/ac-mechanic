@@ -1,0 +1,46 @@
+class = CollectionName,
+properties = Document fields,
+total = 5,
+targetted database = MongoDB
+test database = cloud firestore
+
+class User {
+  final String id;
+  final String firstName;
+  final String lastName;
+  final String displayName;
+  final String role;
+  final String phoneNumber;
+}
+
+class Equipment {
+  final String id;
+  final String equipmentName;
+  final String price;
+  final String equipmentBrand;
+  final bool isAvailable;
+}
+
+class Client {
+  final String id;
+  final String firstName;
+  final String lastName;
+  final String displayName;
+  final String phoneNumber;
+  final String location;
+}
+
+class Department {
+  final String id;
+  final String departmentName;
+}
+
+class Work {
+  final String id;
+  final String workName;
+  final String workPrice;
+  final bool hasStarted;
+  final bool isCompleted;
+  final num deadline;
+  final String actor;
+}
