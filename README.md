@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Credentials:
+  company mailAddress = "ac.mechanic.info@gmail.com" pass=qweasd123@
+  github user = "ac-mechanic" pass=qweasd123@qwe mail= mailAdderess
+  
+
 <!--
 **ac-mechanic/ac-mechanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
